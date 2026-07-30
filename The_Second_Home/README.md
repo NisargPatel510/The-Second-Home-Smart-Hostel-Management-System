@@ -102,11 +102,6 @@ http://localhost:8080/HostelManagementSystem/
 - Ensure MySQL JDBC driver is added to project
 
 
-## 📞 Support
-
-For any issues or questions you can reach out to us anytime via email.
-Email : patelnisarg850@gmail.com
-
 ## 📌 Note
 
 This is a college project demonstrating CRUD operations with MVC architecture using JSP/Servlets. Make sure to implement proper security measures for production use.
